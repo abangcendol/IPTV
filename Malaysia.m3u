@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://exodiver.github.io/IPTV/EPG/guide_71.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="TV1.MY" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
