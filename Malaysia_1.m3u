@@ -5,6 +5,9 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" group-title="MALAYSIA",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA",TV3
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kOh9Zq8BiV2T27tKDcqVsE)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MALAYSIA",TV OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
