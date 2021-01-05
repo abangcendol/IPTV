@@ -21,19 +21,19 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Extreme" tvg-logo="https://i.imgur.com/JJ2ipoh.png" group-title="MALAYSIA",Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/index.m3u8
+http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.imgur.com/rYa4FjK.png" group-title="MALAYSIA",Blue Ant Entertainment
-http://45.126.83.51/dr9445/h/h16/index.m3u8
+http://45.126.83.51/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="MALAYSIA",HBO
 http://136.243.177.164/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema World" tvg-logo="https://i.imgur.com/JKFgFNS.png" group-title="MALAYSIA",Cinema World
-http://45.126.83.51/uq2663/h/h04/index.m3u8
+http://45.126.83.51/uq2663/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrill" tvg-logo="https://i.imgur.com/cPneq0f.png" group-title="MALAYSIA",Thrill 
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY ONE" tvg-logo="https://i.imgur.com/HjQuViT.png" group-title="MALAYSIA",SONY ONE
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
