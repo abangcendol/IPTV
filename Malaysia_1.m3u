@@ -41,11 +41,14 @@ http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="https://i.imgur.com/ns3Tca8.jpg" group-title="MALAYSIA",ZEE CAFE HD
 http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",Star Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="MALAYSIA",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="MALAYSIA",ZEE CINEMA
 http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MN+ HD" tvg-logo="https://kccl.tv/sites/default/files/mn%20plud%20hd.jpg" group-title="MALAYSIA",MN+ HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.m3u8?token=m.r
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS WORLD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="MALAYSIA",KBS WORLD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
