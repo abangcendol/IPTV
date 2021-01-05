@@ -11,7 +11,7 @@ https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kOh9Zq8BiV2T27tKD
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MALAYSIA",TV OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bernama" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bernama" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA",Bernama
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MALAYSIA",andFLIX HD
@@ -19,6 +19,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIVE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest?cb=20200430075830" group-title="MALAYSIA",PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIX" tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="MALAYSIA",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MALAYSIA",HBO
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
@@ -28,8 +31,8 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-id="CNX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MALAYSIA",CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Zee_Caf%C3%A9_2017.svg/revision/latest/scale-to-width-down/340?cb=20200316145807" group-title="MALAYSIA",ZEE CAFE
-http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="https://i.imgur.com/ns3Tca8.jpg" group-title="MALAYSIA",ZEE CAFE HD
+http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="MALAYSIA",ZEE CINEMA
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
