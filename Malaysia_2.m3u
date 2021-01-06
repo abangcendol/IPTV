@@ -6,6 +6,8 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-chno="3" channel-id="3" group-title="MALAYSIA",TV OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" tvg-chno="4" channel-id="4" group-title="MALAYSIA",TV3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="5" channel-id="5" group-title="MALAYSIA",&FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -22,6 +24,8 @@ https://exodiver.github.io/IPTV/M3U8/Token/TV9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" tvg-chno="11" channel-id="11" group-title="MALAYSIA",BERITA RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" tvg-chno="12" channel-id="12" group-title="MALAYSIA",HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="Ria.my" tvg-name="ASTRO RIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" tvg-chno="13" channel-id="13" group-title="MALAYSIA",ASTRO RIA
 http://vp2p2s.my6868.cc/20421/MaN-ipTV.m3u8.ts
@@ -34,24 +38,38 @@ http://vp2p2s.my6868.cc/20420/MaN-ipTV.m3u8.ts
 #EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="ZEE CAFE HD" tvg-logo="https://i.imgur.com/ns3Tca8.jpg" tvg-chno="17" channel-id="17" group-title="MALAYSIA",ZEE CAFE HD
 http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dunia Sinema.my" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" tvg-chno="18" channel-id="18" group-title="MALAYSIA",DUNIA SINEMA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 #EXTINF:-1 tvg-id="CineMax.id" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-chno="19" channel-id="19" group-title="MALAYSIA",CINEMAX
 http://fdtvapps.xyz/channel/cinemax.m3u8
 #EXTINF:-1 tvg-id="CineMax.id" tvg-name="CINEMAX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" tvg-chno="20" channel-id="20" group-title="MALAYSIA",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.th" tvg-name="KBS WORLD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" tvg-chno="21" channel-id="21" group-title="MALAYSIA",KBS WORLD
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxMovies.my" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" tvg-chno="22" channel-id="22" group-title="MALAYSIA",FOX MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 #EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="ZEE CAFE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Zee_Caf%C3%A9_2017.svg/revision/latest/scale-to-width-down/340?cb=20200316145807" tvg-chno="23" channel-id="23" group-title="MALAYSIA",ZEE CAFE
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" tvg-chno="24" channel-id="24" group-title="MALAYSIA",ZEE CINEMA
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="WARNER TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/WarnerTVEurope.png/revision/latest/scale-to-width-down/340?cb=20180325001300" tvg-chno="25" channel-id="25" group-title="MALAYSIA",WARNER TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tvN MOVIES" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" tvg-chno="26" channel-id="26" group-title="MALAYSIA",tvN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-name="ONE TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" tvg-chno="27" channel-id="27" group-title="MALAYSIA",ONE TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" tvg-chno="28" channel-id="28" group-title="MALAYSIA",KIX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
