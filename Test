@@ -1,3 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml.gz" x-tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml.gz"
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-chno="1" channel-id="1" group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" tvg-chno="2" channel-id="2" group-title="MALAYSIA",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" tvg-chno="6" channel-id="6" group-title="MALAYSIA",TV3
+https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
