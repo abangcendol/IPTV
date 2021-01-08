@@ -41,3 +41,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 tvg-id="S-ONE HD" tvg-name="ONE TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" tvg-chno="16" channel-id="16" group-title="MALAYSIA",ONE TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="ZEE CAFE HD" tvg-logo="https://i.imgur.com/ns3Tca8.jpg" tvg-chno="17" channel-id="17" group-title="MALAYSIA",ZEE CAFE HD
+http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/playlist.m3u8
