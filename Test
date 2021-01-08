@@ -4,7 +4,7 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" tvg-chno="2" channel-id="2" group-title="MALAYSIA",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" tvg-chno="3" channel-id="3" group-title="MALAYSIA",TV3
-https://exodiver.github.io/IPTV/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
+https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" tvg-chno="4" channel-id="4" group-title="MALAYSIA",NTV7
 https://exodiver.github.io/IPTV/M3U8/Token/MY/NTV7.m3u8
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" tvg-chno="5" channel-id="5" group-title="MALAYSIA",8TV
