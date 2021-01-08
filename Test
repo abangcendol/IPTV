@@ -27,3 +27,7 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
+#EXTINF:-1 tvg-id="Kix.Asia" tvg-name="KIX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" tvg-chno="12" channel-id="12" group-title="MALAYSIA",KIX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
