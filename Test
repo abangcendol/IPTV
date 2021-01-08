@@ -11,3 +11,11 @@ https://exodiver.github.io/IPTV/M3U8/Token/MY/NTV7.m3u8
 https://exodiver.github.io/IPTV/M3U8/Token/MY/8TV.m3u8
 #EXTINF:-1 tvg-id="TV9.MY" tvg-name="TV9" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-chno="6" channel-id="6" group-title="MALAYSIA",TV9
 https://exodiver.github.io/IPTV/M3U8/Token/MY/TV9.m3u8
+#EXTINF:-1 tvg-id="Oky.MY" tvg-name="TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-chno="7" channel-id="7" group-title="MALAYSIA",TV OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" tvg-chno="8" channel-id="8" group-title="MALAYSIA",HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="Fli.IN" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="9" channel-id="9" group-title="MALAYSIA",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
