@@ -47,3 +47,5 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="ZEE CAFE HD" tvg-logo="https://i.imgur.com/ns3Tca8.jpg" tvg-chno="17" channel-id="17" group-title="MALAYSIA",ZEE CAFE HD
 http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="" group-title="MALAYSIA",SONY PIX HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/74?checkedby:hlscat.com
