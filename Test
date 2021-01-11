@@ -49,3 +49,30 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-chno="18" channel-id="18" group-title="MALAYSIA",SONY PIX HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/74?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="AND FLIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="19" channel-id="19" group-title="MALAYSIA",AND FLIX FHD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1001?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="AND PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="20" channel-id="20" group-title="MALAYSIA",AND PRIVE HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/124?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="https://kccl.tv/sites/default/files/colors%20infinity%20hd.png" tvg-chno="21" channel-id="21" group-title="MALAYSIA",COLORS INFINITY HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/140?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="ROMEDY NOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" tvg-chno="22" channel-id="22" group-title="MALAYSIA",ROMEDY NOW HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/102?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg" tvg-chno="23" channel-id="23" group-title="MALAYSIA",STAR MOVIES HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/22?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" tvg-chno="24" channel-id="24" group-title="MALAYSIA",STAR MOVIES SELECT HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/24?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png" tvg-chno="25" channel-id="25" group-title="MALAYSIA",STAR WORLD HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/5?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD PREMIER HD" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" tvg-chno="26" channel-id="26" group-title="MALAYSIA",STAR WORLD PREMIER HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/23?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE HD" tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" tvg-chno="27" channel-id="27" group-title="MALAYSIA",ZEE CAFE HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/29?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="MNX HD" tvg-logo="https://kccl.tv/sites/default/files/mnx%20hd.png" tvg-chno="28" channel-id="28" group-title="MALAYSIA",MNX HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/123?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" tvg-chno="29" channel-id="29" group-title="MALAYSIA",MOVIES NOW HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/125?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="MN PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" tvg-chno="30" channel-id="30" group-title="MALAYSIA",MN PLUS HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/129?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_ria.png" tvg-chno="31" channel-id="31" group-title="MALAYSIA",ASTRO RIA
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39315
+
