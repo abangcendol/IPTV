@@ -46,17 +46,17 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="ZEE CAFE HD" tvg-logo="https://i.imgur.com/ns3Tca8.jpg" tvg-chno="17" channel-id="17" group-title="MALAYSIA",ZEE CAFE HD
-http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/playlist.m3u8
+https://botallen.live/z/0-9-zeecafehd/master.m3u8?signature=4ec310433a978fa35ed39fb9b0234754c439ffe2&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-chno="18" channel-id="18" group-title="MALAYSIA",SONY PIX HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/74?checkedby:hlscat.com
+https://botallen.live/t/32/master.m3u8?signature=d4db19e28f4b180ac06133a6f42fc01273e6f661&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="&Flix HD" tvg-name="AND FLIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="19" channel-id="19" group-title="MALAYSIA",AND FLIX FHD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1001?checkedby:hlscat.com
+https://botallen.live/z/0-9-channel_2105335046/master.m3u8?signature=2d40234a867626007c5268e006c9b11fa8862094&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="And prive HD" tvg-name="AND PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="20" channel-id="20" group-title="MALAYSIA",AND PRIVE HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/124?checkedby:hlscat.com
+https://botallen.live/z/0-9-priv%C3%A9hd/master.m3u8?signature=73c6a6e3bfda9382087f5fc7d02362dd562986b1&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="COLORS INFINITY HD" tvg-logo="https://kccl.tv/sites/default/files/colors%20infinity%20hd.png" tvg-chno="21" channel-id="21" group-title="MALAYSIA",COLORS INFINITY HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/140?checkedby:hlscat.com
+https://botallen.live/t/187/master.m3u8?signature=744829818a55c72476fec81c72098e76acc7fc60&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="Romedy Now HD" tvg-name="ROMEDY NOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" tvg-chno="22" channel-id="22" group-title="MALAYSIA",ROMEDY NOW HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/102?checkedby:hlscat.com
+https://botallen.live/t/437/master.m3u8?signature=ca44fb048fefc3edf61ae74d807b8f787f7a3532&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="STAR Movies HD" tvg-name="STAR MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg" tvg-chno="23" channel-id="23" group-title="MALAYSIA",STAR MOVIES HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/22?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" tvg-chno="24" channel-id="24" group-title="MALAYSIA",STAR MOVIES SELECT HD
@@ -66,21 +66,12 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/5?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="StarPremiere HD" tvg-name="STAR WORLD PREMIER HD" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" tvg-chno="26" channel-id="26" group-title="MALAYSIA",STAR WORLD PREMIER HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/23?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="ZEE CAFE HD" tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" tvg-chno="27" channel-id="27" group-title="MALAYSIA",ZEE CAFE HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/29?checkedby:hlscat.com
+https://botallen.live/z/0-9-zeecafehd/master.m3u8?signature=4ec310433a978fa35ed39fb9b0234754c439ffe2&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://kccl.tv/sites/default/files/mnx%20hd.png" tvg-chno="28" channel-id="28" group-title="MALAYSIA",MNX HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/123?checkedby:hlscat.com
+https://botallen.live/t/599/master.m3u8?signature=9bddd34ac4479dfaed317af4294cdf9d6f21959f&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="MOVIES NOW HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" tvg-chno="29" channel-id="29" group-title="MALAYSIA",MOVIES NOW HD
 https://botallen.live/t/562/master.m3u8?signature=10e38dd34a222e82083452a35eeebafabbd5f63c&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" tvg-chno="30" channel-id="30" group-title="MALAYSIA",MN PLUS HD
 https://botallen.live/t/210/master.m3u8?signature=44fb6dd0ac4a96a868b5a20d8f744b331d907ff5&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_ria.png" tvg-chno="31" channel-id="31" group-title="MALAYSIA",ASTRO RIA
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39315
-#EXTINF:-1 tvg-id="" tvg-name="tvN MOVIES" tvg-logo="https://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" tvg-chno="32" channel-id="32" group-title="MALAYSIA",tvN MOVIES
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39362
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-chno="33" channel-id="33" group-title="MALAYSIA",HBO
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39360
-#EXTINF:-1 tvg-id="" tvg-name="RED HBO HD" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" tvg-chno="34" channel-id="34" group-title="MALAYSIA",RED HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" tvg-chno="34" channel-id="34" group-title="MALAYSIA",CINEMA WORLD
-http://210.210.155.35:80/uq2663/h/h04/01.m3u8
+
 
