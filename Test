@@ -14,7 +14,7 @@ https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8|Referer=https://www.dail
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-chno="7" channel-id="7" group-title="MALAYSIA",TV OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" tvg-chno="8" channel-id="8" group-title="MALAYSIA",HBO
-https://github.com/zhafri/IPTV/raw/main/hbo.m3u8
+https://raw.githubusercontent.com/zhafri/IPTV/main/hbo.m3u8
 #EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="9" channel-id="9" group-title="MALAYSIA",&FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/WarnerTVEurope.png/revision/latest/scale-to-width-down/340?cb=20180325001300" tvg-chno="10" channel-id="10" group-title="MALAYSIA",WARNER TV
