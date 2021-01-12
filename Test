@@ -71,6 +71,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYSIA",STAR MOVIE
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3981?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYSIA",Sony PIX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10607?checkedby:hlscat.com
 
 
 
