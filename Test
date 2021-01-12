@@ -41,17 +41,17 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:-1 tvg-id="S-ONE HD" tvg-name="ONE TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" tvg-chno="16" channel-id="16" group-title="MALAYSIA",ONE TV
+#EXTINF:-1 tvg-id="ONE HD" tvg-name="ONE TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" tvg-chno="16" channel-id="16" group-title="MALAYSIA",ONE TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="ZEE CAFE HD" tvg-logo="https://i.imgur.com/ns3Tca8.jpg" tvg-chno="17" channel-id="17" group-title="MALAYSIA",ZEE CAFE HD
 https://botallen.live/z/0-9-zeecafehd/master.m3u8?signature=4ec310433a978fa35ed39fb9b0234754c439ffe2&unique=fa373ca71b0d39eea2647adeab37e371
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-chno="18" channel-id="18" group-title="MALAYSIA",SONY PIX HD
+#EXTINF:-1 tvg-id="PIX HD" tvg-name="SONY PIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-chno="18" channel-id="18" group-title="MALAYSIA",SONY PIX HD
 https://botallen.live/t/32/master.m3u8?signature=d4db19e28f4b180ac06133a6f42fc01273e6f661&unique=fa373ca71b0d39eea2647adeab37e371
-#EXTINF:-1 tvg-id="&Flix HD" tvg-name="AND FLIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="19" channel-id="19" group-title="MALAYSIA",AND FLIX FHD
+#EXTINF:-1 tvg-id="And flix HD" tvg-name="AND FLIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="19" channel-id="19" group-title="MALAYSIA",AND FLIX FHD
 https://botallen.live/z/0-9-channel_2105335046/master.m3u8?signature=2d40234a867626007c5268e006c9b11fa8862094&unique=fa373ca71b0d39eea2647adeab37e371
-#EXTINF:-1 tvg-id="And prive HD" tvg-name="AND PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="20" channel-id="20" group-title="MALAYSIA",AND PRIVE HD
+#EXTINF:-1 tvg-id="And Prive HD" tvg-name="AND PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="20" channel-id="20" group-title="MALAYSIA",AND PRIVE HD
 https://botallen.live/z/0-9-priv%C3%A9hd/master.m3u8?signature=73c6a6e3bfda9382087f5fc7d02362dd562986b1&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="COLORS INFINITY HD" tvg-logo="https://kccl.tv/sites/default/files/colors%20infinity%20hd.png" tvg-chno="21" channel-id="21" group-title="MALAYSIA",COLORS INFINITY HD
 https://botallen.live/t/187/master.m3u8?signature=744829818a55c72476fec81c72098e76acc7fc60&unique=fa373ca71b0d39eea2647adeab37e371
