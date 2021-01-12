@@ -69,6 +69,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYSIA",STAR MOVIE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3981?checkedby:hlscat.com
 
 
 
