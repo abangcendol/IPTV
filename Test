@@ -49,8 +49,6 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 https://botallen.live/z/0-9-zeecafehd/master.m3u8?signature=4ec310433a978fa35ed39fb9b0234754c439ffe2&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="PIX HD" tvg-name="SONY PIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-chno="18" channel-id="18" group-title="MALAYSIA",SONY PIX HD
 https://botallen.live/t/32/master.m3u8?signature=d4db19e28f4b180ac06133a6f42fc01273e6f661&unique=fa373ca71b0d39eea2647adeab37e371
-#EXTINF:-1 tvg-id="And flix HD" tvg-name="AND FLIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="19" channel-id="19" group-title="MALAYSIA",AND FLIX FHD
-https://botallen.live/z/0-9-channel_2105335046/master.m3u8?signature=2d40234a867626007c5268e006c9b11fa8862094&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="And Prive HD" tvg-name="AND PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="20" channel-id="20" group-title="MALAYSIA",AND PRIVE HD
 https://botallen.live/z/0-9-priv%C3%A9hd/master.m3u8?signature=73c6a6e3bfda9382087f5fc7d02362dd562986b1&unique=fa373ca71b0d39eea2647adeab37e371
 #EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="COLORS INFINITY HD" tvg-logo="https://kccl.tv/sites/default/files/colors%20infinity%20hd.png" tvg-chno="21" channel-id="21" group-title="MALAYSIA",COLORS INFINITY HD
