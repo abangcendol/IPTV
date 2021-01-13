@@ -75,6 +75,8 @@ http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3981?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYSIA",Sony PIX
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10607?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" group-title="MALAYSIA",Warner
+https://vcdnjt.useetv.com/dass/15/warner/chunklist_w631373285_b1344100_sleng.m3u8
 
 
 
