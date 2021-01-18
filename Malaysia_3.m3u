@@ -68,4 +68,9 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cineplex.png" group-title="MOVIES",CINEPLEX
+http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
+
 
