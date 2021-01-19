@@ -73,4 +73,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cineplex.png" group-title="MOVIES",CINEPLEX
 http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="MOVIES",Zee Cafe HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
 
