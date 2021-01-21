@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml.gz" tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml.gz"
+
+#EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&FLIX HD
+http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
