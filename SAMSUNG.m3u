@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml.gz"
+#EXTM3U 
 
 #EXTINF:-1 tvg-id="And Prive HD" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",PRIVE HD
 http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
