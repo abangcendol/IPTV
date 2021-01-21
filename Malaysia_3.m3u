@@ -73,19 +73,19 @@ http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cineplex.png" group-title="MOVIES",CINEPLEX
 http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="MOVIES",Zee Cafe HD
+#EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="MOVIES",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://assets.botallen.live/images/t/sZEaVYREcG.png" group-title="MOVIES",SONY PIX HD
+#EXTINF:-1 tvg-id="PIX HD" tvg-name="SONY PIX HD" tvg-logo="https://assets.botallen.live/images/t/sZEaVYREcG.png" group-title="MOVIES",SONY PIX HD
 https://botallen.live/t/32/master.m3u8?t=31c968c14ed2ca97afdc7b8bdd1061ecf080f611fdd48f2811ebfec2d67aac76d7a53fe43cbae465a4f108849c1b07804d4e0b0bdae38fc8
 
-#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
+#EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
 https://botallen.live/t/187/master.m3u8?t=31c968c14ed2ca97afdc7b8bdd1061ecf080f611fdd48f2811ebfec2d67aac76d7a53fe43cbae465a4f108849c1b07804d4e0b0bdae38fc8
 
-#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="MOVIES",MN+ HD
+#EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="MOVIES",MN+ HD
 https://botallen.live/t/210/master.m3u8?t=31c968c14ed2ca97afdc7b8bdd1061ecf080f611fdd48f2811ebfec2d67aac76d7a53fe43cbae465a4f108849c1b07804d4e0b0bdae38fc8
 
-#EXTINF:-1 tvg-id="" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
 https://botallen.live/t/562/master.m3u8?t=31c968c14ed2ca97afdc7b8bdd1061ecf080f611fdd48f2811ebfec2d67aac76d7a53fe43cbae465a4f108849c1b07804d4e0b0bdae38fc8
 
 #EXTINF:-1 tvg-id="" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
