@@ -88,7 +88,7 @@ https://botallen.live/t/210/master.m3u8?t=31c968c14ed2ca97afdc7b8bdd1061ecf080f6
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
 https://botallen.live/t/562/master.m3u8?t=31c968c14ed2ca97afdc7b8bdd1061ecf080f611fdd48f2811ebfec2d67aac76d7a53fe43cbae465a4f108849c1b07804d4e0b0bdae38fc8
 
-#EXTINF:-1 tvg-id="" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
+#EXTINF:-1 tvg-id="Romedy Now HD" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
 https://botallen.live/t/437/master.m3u8?t=31c968c14ed2ca97afdc7b8bdd1061ecf080f611fdd48f2811ebfec2d67aac76d7a53fe43cbae465a4f108849c1b07804d4e0b0bdae38fc8
 
 
