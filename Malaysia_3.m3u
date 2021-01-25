@@ -79,8 +79,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="MOVIES",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="PIX HD" tvg-name="SONY PIX HD" tvg-logo="https://assets.botallen.live/images/t/sZEaVYREcG.png" group-title="MOVIES",SONY PIX HD
-https://botallen.live/t/32/master.m3u8?t=31c968c14ed2ca97afdc7b8bdd1061ecf080f611fdd48f2811ebfec2d67aac76d7a53fe43cbae465a4f108849c1b07804d4e0b0bdae38fc8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
+#EXTVLCOPT:user-agent=KAIOS
+https://botallen.live/j/Sony_Pix_HD/master.m3u8?t=746e072966622ee711df52da75cdf5c6992f97011520eddf5dd0d9d0282069aa63f9cc84af74e74a9f13ad2552580eb382de66f1accc59
 
 #EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
 https://botallen.live/t/187/master.m3u8?t=31c968c14ed2ca97afdc7b8bdd1061ecf080f611fdd48f2811ebfec2d67aac76d7a53fe43cbae465a4f108849c1b07804d4e0b0bdae38fc8
