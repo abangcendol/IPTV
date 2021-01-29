@@ -106,7 +106,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
-https://botallen.live/t/32/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/t/wv/400000031?t=8bcf14d0d55c4ee9a8f1be5cde4594749999af7d44e02e14060b1498ca8900f09f55fb4917bd360e5684785e204392208ec0208284f5f36c
+https://botallen.live/t/32/master.mpd?t=8bcf14d0d55c4ee9a8f1be5cde4594749999af7d44e02e14060b1498ca8900f09f55fb4917bd360e5684785e204392208ec0208284f5f36c
 
 #EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
 https://botallen.live/t/187/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
