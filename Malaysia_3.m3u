@@ -32,6 +32,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 #EXTINF:-1 tvg-id="Astro Ria HD" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
 http://iptvtree.net:8080/Line1051/f4fffd47/158347?play_token=2CRjfTjUfg
 
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA HD" tvg-logo="" group-title="Malaysia",ASTRO PRIMA HD
+http://iptvtree.net:8080/Line1051/f4fffd47/157467?play_token=2CRjfTjUfg
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO WARNA HD" tvg-logo="" group-title="Malaysia",ASTRO WARNA HD
+http://iptvtree.net:8080/Line1051/f4fffd47/157492?play_token=2CRjfTjUfg
+
 #EXTINF:-1 tvg-id="Naura HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
@@ -50,7 +56,7 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 #EXTINF:-1 tvg-id="TV SUKAN" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CITRA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES",ASTRO CITRA HD
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MOVIES",ASTRO CITRA HD
 http://iptvtree.net:8080/Line1051/f4fffd47/157569?play_token=2CRjfTjUfg
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
