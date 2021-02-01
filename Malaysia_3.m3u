@@ -38,7 +38,7 @@ https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 #EXTINF:-1 tvg-id="Hello HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
+#EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-id="BERNAMA" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA 
@@ -65,6 +65,15 @@ http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://deadline.com/wp-content/uploads/2018/12/hbo-asia-logo__140308044106.jpg" tvg-name="HBO ASIA" group-title="MOVIES",HBO ASIA
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/hbotips.jpg" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MOVIES",DUNIA SINEMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
