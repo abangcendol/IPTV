@@ -66,13 +66,13 @@ http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://deadline.com/wp-content/uploads/2018/12/hbo-asia-logo__140308044106.jpg" tvg-name="HBO ASIA" group-title="MOVIES",HBO ASIA
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://deadline.com/wp-content/uploads/2018/12/hbo-asia-logo__140308044106.jpg" tvg-name="HBO ASIA" group-title="MOVIES",HBO ASIA
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/hbotips.jpg" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://www.tvchinese.net/uploads/tv/hbotips.jpg" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MOVIES",DUNIA SINEMA
