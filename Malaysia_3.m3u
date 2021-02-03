@@ -123,11 +123,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
 
 #EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/t/wv/400000031?t=8bcf14d0d55c4ee9a8f1be5cde4594749999af7d44e02e14060b1498ca8900f09f55fb4917bd360e5684785e204392208ec0208284f5f36c
-https://botallen.live/t/32/master.mpd?t=8bcf14d0d55c4ee9a8f1be5cde4594749999af7d44e02e14060b1498ca8900f09f55fb4917bd360e5684785e204392208ec0208284f5f36c
+http://rv.therevenge.co:80/565656/565656/83703?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
 https://botallen.live/t/187/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
@@ -143,6 +139,7 @@ https://botallen.live/t/437/master.m3u8?t=301354ae54dd555d55406809da298616aeacce
 
 #EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
 https://botallen.live/t/599/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
+
 
 
 
