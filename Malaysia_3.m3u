@@ -129,10 +129,10 @@ http://rv.therevenge.co:80/565656/565656/83703?checkedby:hlscat.com
 https://botallen.live/t/187/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
 
 #EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="MOVIES",MN+ HD
-https://botallen.live/t/210/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
+http://rv.therevenge.co:80/live/242424/242424/83603.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
-https://botallen.live/t/562/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
+http://rv.therevenge.co:80/live/242424/242424/83604.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="Romedy Now HD" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
 https://botallen.live/t/437/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
