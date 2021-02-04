@@ -65,8 +65,7 @@ http://iptvtree.net:8080/Line1051/f4fffd47/157569?play_token=2CRjfTjUfg
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&FLIX HD
-#http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
-http://185.71.64.167:80/307245103371/307245103371/83613?checkedby:hlscat.com
+http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
 
 #EXTINF:-1 tvg-id="And Prive HD" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",PRIVE HD
 http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
@@ -124,8 +123,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
 
 #EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
-#http://rv.therevenge.co:80/565656/565656/83703?checkedby:hlscat.com
-http://185.71.64.167:80/307245103371/307245103371/83703?checkedby:hlscat.com
+#http://185.71.64.167:80/307245103371/307245103371/83703?checkedby:hlscat.com
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17287.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
 https://botallen.live/t/187/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
