@@ -30,13 +30,16 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #EXTINF:-1 tvg-id="Astro Ria HD" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
-http://iptvtree.net:8080/Line1051/f4fffd47/158347?play_token=2CRjfTjUfg
+#http://iptvtree.net:8080/Line1051/f4fffd47/158347?play_token=2CRjfTjUfg
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391068
 
 #EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="ASTRO PRIMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="Malaysia",ASTRO PRIMA HD
-http://iptvtree.net:8080/Line1051/f4fffd47/157467?play_token=2CRjfTjUfg
+#http://iptvtree.net:8080/Line1051/f4fffd47/157467?play_token=2CRjfTjUfg
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391071
 
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="Malaysia",ASTRO WARNA HD
-http://iptvtree.net:8080/Line1051/f4fffd47/157492?play_token=2CRjfTjUfg
+#http://iptvtree.net:8080/Line1051/f4fffd47/157492?play_token=2CRjfTjUfg
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391058
 
 #EXTINF:-1 tvg-id="Naura HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
@@ -48,7 +51,7 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-id="BERNAMA" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA 
-https://fvtv.mywire.org/streams/youtube/ch_bnc.m3u8|Referer=https://www.youtube.com
+https://fvtv2.mywire.org/streams/youtube/ch_bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-id="BERITA RTM" group-title="News" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
@@ -57,7 +60,8 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MOVIES",ASTRO CITRA HD
-http://iptvtree.net:8080/Line1051/f4fffd47/157569?play_token=2CRjfTjUfg
+#http://iptvtree.net:8080/Line1051/f4fffd47/157569?play_token=2CRjfTjUfg
+http://dragoniptv.club:8080/dy7DRd0Ezf/WcZ5jHhtP4/50888
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
