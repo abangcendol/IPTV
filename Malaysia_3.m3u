@@ -68,9 +68,9 @@ http://iptvtree.net:8080/Line1051/f4fffd47/157569?play_token=2CRjfTjUfg
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&FLIX HD
-#http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
+http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
 #https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
-http://185.71.64.167/307226126667/307226126667/83613?checkedby:hlscat.com
+#http://185.71.64.167/307226126667/307226126667/83613?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="And Prive HD" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",PRIVE HD
 http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
@@ -127,24 +127,24 @@ http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="MOVIES",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
+|#EXTINF:-1 tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
+|http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
 
 #EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
 http://185.71.64.167:80/307245103371/307245103371/83703?checkedby:hlscat.com
 #http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17287.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
-https://botallen.live/t/187/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
+|#EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
+|https://botallen.live/t/187/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
 
-#EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="MOVIES",MN+ HD
-http://rv.therevenge.co:80/live/242424/242424/83603.m3u8?checkedby:hlscat.com
+|#EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="MOVIES",MN+ HD
+|http://rv.therevenge.co:80/live/242424/242424/83603.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
-http://185.71.64.167:80/307245103371/307245103371/83604?checkedby:hlscat.com
+|#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
+|http://185.71.64.167:80/307245103371/307245103371/83604?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="Romedy Now HD" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
-https://botallen.live/t/437/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
+|#EXTINF:-1 tvg-id="Romedy Now HD" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
+|https://botallen.live/t/437/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
 
 #EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
 http://185.71.64.167:80/307245103371/307245103371/83605?checkedby:hlscat.com
