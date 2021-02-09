@@ -150,14 +150,14 @@ http://185.71.64.167:80/307245103371/307245103371/83703?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
 http://185.71.64.167:80/307245103371/307245103371/83605?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="Cinemax (East) (MAXe) [310]" tvg-name="Cinemax (East)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (East) (1080p)
+#EXTINF:-1 tvg-id="DTV:MAXe:515 Cinemax" tvg-name="Cinemax (East)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (East) (1080p)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax (West) (MAX) [311]" tvg-name="Cinemax (West)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (West) (1080p)
+#EXTINF:-1 tvg-id="DTV:MAXw:516 Cinemax West" tvg-name="Cinemax (West)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (West) (1080p)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 
-#EXTINF:-1 tvg-id="EPIX (East) (EPIX) [380]" tvg-name="Epix (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix (East) (1080p)
+#EXTINF:-1 tvg-id="Epix East" tvg-name="Epix (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix (East) (1080p)
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 
-#EXTINF:-1 tvg-id="EPIX2 HDTV (East) (EPIXHD) [381]" tvg-name="Epix 2 (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix 2 (East) (1080p)
+#EXTINF:-1 tvg-id="EPIX2HD EPIX 2 HD" tvg-name="Epix 2 (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix 2 (East) (1080p)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
