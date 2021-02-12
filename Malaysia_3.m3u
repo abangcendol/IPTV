@@ -66,10 +66,12 @@ https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u
 |#EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MOVIES",ASTRO CITRA HD
 |http://iptvtree.net:8080/Line1051/f4fffd47/157569?play_token=2CRjfTjUfg
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+|#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV" group-title="MOVIES" tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png",WARNER TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+https://nonton.site:8443/novi/novi123/1533
+
 
 #EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&FLIX HD
 #http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
@@ -91,24 +93,29 @@ https://nonton.site:8443/novi/novi123/98
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764dad045c59a90d7587d8d671b5f5aec4e7c
-https://nonton.site:8443/novi/novi123/1496
+#https://nonton.site:8443/novi/novi123/1496
+https://nonton.site:8443/novi/novi123/210
+
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
-https://nonton.site:8443/novi/novi123/11492
+#https://nonton.site:8443/novi/novi123/11492
+https://nonton.site:8443/novi/novi123/591
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
 #http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
-https://nonton.site:8443/novi/novi123/30185
+#https://nonton.site:8443/novi/novi123/30185
+https://nonton.site:8443/novi/novi123/2156
 
-#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MOVIES",DUNIA SINEMA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+
+|#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MOVIES",DUNIA SINEMA
+|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+|http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 #EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN MOVIES" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="MOVIES",tvN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
