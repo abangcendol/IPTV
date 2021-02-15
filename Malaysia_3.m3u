@@ -99,7 +99,9 @@ https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPrem
 #http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764dad045c59a90d7587d8d671b5f5aec4e7c
 #https://nonton.site:8443/novi/novi123/1496
-https://nonton.site:8443/novi/novi123/210
+#https://nonton.site:8443/novi/novi123/210
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
