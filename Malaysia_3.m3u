@@ -41,8 +41,10 @@ http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391068
 
 #EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="ASTRO PRIMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="Malaysia",ASTRO PRIMA HD
 #http://iptvtree.net:8080/Line1051/f4fffd47/157467?play_token=2CRjfTjUfg
-http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391071
+#http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391071
 #https://nonton.site:8443/novi/novi123/37333
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="Malaysia",ASTRO WARNA HD
 #http://iptvtree.net:8080/Line1051/f4fffd47/157492?play_token=2CRjfTjUfg
@@ -70,14 +72,15 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV SUKAN" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-|#EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MOVIES",ASTRO CITRA HD
-|http://iptvtree.net:8080/Line1051/f4fffd47/157569?play_token=2CRjfTjUfg
+#EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MOVIES",ASTRO CITRA HD
+#http://iptvtree.net:8080/Line1051/f4fffd47/157569?play_token=2CRjfTjUfg
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-|#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV" group-title="MOVIES" tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png",WARNER TV
-#https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-https://nonton.site:8443/novi/novi123/1533
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#https://nonton.site:8443/novi/novi123/1533
 
 
 #EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&FLIX HD
@@ -90,14 +93,12 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
 #https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
 
-
 |#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 |#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id="FOX Movies HD" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",FOX MOVIES
 #http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 #https://nonton.site:8443/novi/novi123/98
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-
 
 |#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 |#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -112,8 +113,6 @@ http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 #https://nonton.site:8443/novi/novi123/210
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
@@ -127,7 +126,6 @@ https://nonton.site:8443/novi/novi123/591
 #http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
 #https://nonton.site:8443/novi/novi123/30185
 https://nonton.site:8443/novi/novi123/2156
-
 
 |#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MOVIES",DUNIA SINEMA
 |#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -169,7 +167,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #http://185.71.64.167:80/307245103371/307245103371/83703?checkedby:hlscat.com
 #http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17287.m3u8?checkedby:hlscat.com
 http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48142&output=m3u8
-http://185.246.210.51:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
+#http://185.246.210.51:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 
 |#EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
