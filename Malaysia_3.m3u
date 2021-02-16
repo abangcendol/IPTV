@@ -49,6 +49,9 @@ http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391071
 http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391058
 #https://nonton.site:8443/novi/novi123/37335
 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Malaysia",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Naura HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
