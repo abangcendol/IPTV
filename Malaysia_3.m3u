@@ -218,8 +218,8 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 ------------------------------------------------------------------
 
-|#EXTINF:-1 tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
-|http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
+#EXTINF:-1 tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/o7keJO8sVU/93669
 
 -------------------SONY PIX------------------------------------
 #EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
