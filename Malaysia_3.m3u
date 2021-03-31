@@ -176,7 +176,7 @@ https://nonton.site:8443/novi/novi123/591
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
 #https://nonton.site:8443/novi/novi123/30185
-https://nonton.site:8443/novi/novi123/2156
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 ------------------------------------------------------------------
 
 |#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MOVIES",DUNIA SINEMA
@@ -218,8 +218,10 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 ------------------------------------------------------------------
 
+-------------------Star Movies Select HD------------------------------------
 #EXTINF:-1 tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/o7keJO8sVU/93669
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799681
+------------------------------------------------------------------
 
 -------------------SONY PIX------------------------------------
 #EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
@@ -228,26 +230,34 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/o7keJO8sVU/93669
 #http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48142&output=m3u8
 #http://185.246.210.51:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 #http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=7536907
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/o7keJO8sVU/96182
+http://4kiptv.vip:25461/9za5XfvrPCpOLpH/alcZQsVzVo/96182
 ------------------------------------------------------------------
 
+-------------------Colors Infinity HD------------------------------------
+#EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799341
+-------------------------------------------------------------
 
-|#EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
-|https://botallen.live/t/187/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
-
+-------------------MN+ HD------------------------------------
 #EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="MOVIES",MN+ HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/o7keJO8sVU/96283
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799334
+-------------------------------------------------------------
 
+-------------------Movies Now HD------------------------------------
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
 #http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48160&output=m3u8
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/o7keJO8sVU/93666
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799331
+-------------------------------------------------------------
 
+-------------------Romedy Now HD------------------------------------
+#EXTINF:-1 tvg-id="Romedy Now HD" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799727
+-------------------------------------------------------------
 
-|#EXTINF:-1 tvg-id="Romedy Now HD" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
-|https://botallen.live/t/437/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
-
+-------------------MNX HD------------------------------------
 #EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/o7keJO8sVU/96281
+-------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HINDI MOVIES", Hindi Cinema 01
 http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
