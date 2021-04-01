@@ -45,11 +45,11 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 --------------------------------------------------------
 
 ----------------------AL-HIJRAH-------------------------
-|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-id="Al-Hijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="Malaysia",ALHIJRAH
+#|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+##EXTINF:-1 tvg-id="Al-Hijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="Malaysia",ALHIJRAH
 #http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
-http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390964
+#http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390964
 --------------------------------------------------------
 
 --------------------ASTRO RIA---------------------------
@@ -138,9 +138,9 @@ http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
 ------------------------------------------------------------------
 
 -------------------FOX MOVIES------------------------------------
-|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-|#EXTINF:-1 tvg-id="FOX Movies HD" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",FOX MOVIES
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+##EXTINF:-1 tvg-id="FOX Movies HD" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",FOX MOVIES
 #http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 #https://nonton.site:8443/novi/novi123/98
 #http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
@@ -179,11 +179,6 @@ https://nonton.site:8443/novi/novi123/591
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 ------------------------------------------------------------------
 
-|#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MOVIES",DUNIA SINEMA
-|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-|http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
-
 -------------------TVN MOVIES------------------------------------
 #EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN MOVIES" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="MOVIES",tvN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -191,27 +186,12 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 ------------------------------------------------------------------
 
-|#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sony%20max.png" group-title="MOVIES",SONY MAX
-|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-|http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
-
 -------------------ZEE CINEMA------------------------------------
 #EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="MOVIES",ZEE CINEMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 ------------------------------------------------------------------
-
-|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-|#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/yuppthirai.png" group-title="MOVIES",YUPP THIRAI
-|http://1.9.58.102/PLTV/88888888/224/3221227762/3221227762.mpd
-
-|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-|#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cineplex.png" group-title="MOVIES",CINEPLEX
-|http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 
 -------------------ZEE CAFE------------------------------------
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="MOVIES",Zee Cafe HD
