@@ -115,40 +115,57 @@ https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 ------------------------------------------------------------------
 
+-------------------DUNIA CINEMA------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0MmFlYzItZmE4NS0zNjNjLTk3YjItMTg2NzIyYjcyOTQ5
+#EXTINF:-1 group-title="Movies" tvg-id="CHN" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+------------------------------------------------------------------
+
 -------------------WARNER TV------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV" group-title="MOVIES" tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png",WARNER TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-#https://nonton.site:8443/novi/novi123/1533
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0MmFlYzItZmE4NS0zNjNjLTk3YjItMTg2NzIyYjcyOTQ5
+#EXTINF:-1 group-title="International Variety" tvg-id="451" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",Warner TV HD
+http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 ------------------------------------------------------------------
+
+-------------------Blue Ant Entertainment------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0MmFlYzItZmE4NS0zNjNjLTk3YjItMTg2NzIyYjcyOTQ5
+#EXTINF:-1 group-title="International Variety" tvg-id="473" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment
+http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
+------------------------------------------------------------------
+
+-------------------Blue Ant Extreme------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0MmFlYzItZmE4NS0zNjNjLTk3YjItMTg2NzIyYjcyOTQ5
+#EXTINF:-1 group-title="International Variety" tvg-id="474" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",Blue Ant Extreme
+http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
+------------------------------------------------------------------
+
 
 -------------------AND FLIX------------------------------------
 #EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&FLIX HD
-#http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
-#http://185.71.64.167/307226126667/307226126667/83613?checkedby:hlscat.com
 ------------------------------------------------------------------
 
 -------------------AND PRIVE------------------------------------
 #EXTINF:-1 tvg-id="And Prive HD" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",PRIVE HD
-http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
-#https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+------------------------------------------------------------------
+
+-------------------SONY MAX------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0MmFlYzItZmE4NS0zNjNjLTk3YjItMTg2NzIyYjcyOTQ5
+#EXTINF:-1 group-title="Movies" tvg-id="331" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",Sony Max
+http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 ------------------------------------------------------------------
 
 -------------------FOX MOVIES------------------------------------
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-##EXTINF:-1 tvg-id="FOX Movies HD" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",FOX MOVIES
-#http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
-#https://nonton.site:8443/novi/novi123/98
-#http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="FOX Movies HD" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",FOX MOVIES
-https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0MmFlYzItZmE4NS0zNjNjLTk3YjItMTg2NzIyYjcyOTQ5
+#EXTINF:-1 group-title="Movies" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
+http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 ------------------------------------------------------------------
 
 -------------------HBO------------------------------------
@@ -180,10 +197,17 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 ------------------------------------------------------------------
 
 -------------------TVN MOVIES------------------------------------
-#EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN MOVIES" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="MOVIES",tvN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0MmFlYzItZmE4NS0zNjNjLTk3YjItMTg2NzIyYjcyOTQ5
+#EXTINF:-1 group-title="Movies" tvg-id="201" tvg-chno="201" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies HD
+http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
+------------------------------------------------------------------
+
+-------------------TVN------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0MmFlYzItZmE4NS0zNjNjLTk3YjItMTg2NzIyYjcyOTQ5
+#EXTINF:-1 group-title="International Variety" tvg-id="211" tvg-chno="211" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",TVN HD
+http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 ------------------------------------------------------------------
 
 -------------------ZEE CINEMA------------------------------------
