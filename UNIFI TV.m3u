@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/unifitv.xml" tvg-url="https://weareblahs.github.io/epg/unifitv.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmE0MmFlYzItZmE4NS0zNjNjLTk3YjItMTg2NzIyYjcyOTQ5
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MzRiZWM0MWQtYmE5NC0zZjA3LThlZTAtYjc2ZWY5ODJmOWZl
 #EXTINF:-1 group-title="Preview Channel" tvg-id="CHN" tvg-chno="100" tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE",unifi TV
 http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd
 
