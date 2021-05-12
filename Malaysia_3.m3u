@@ -195,7 +195,8 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 
 -------------------CINEMAX------------------------------------
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
 ------------------------------------------------------------------
 
 -------------------TVN MOVIES------------------------------------
@@ -281,7 +282,7 @@ http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
 
 -------------------CINEMAX EAST------------------------------------
 #EXTINF:-1 tvg-id="DTV:MAXe:515 Cinemax" tvg-name="Cinemax (East)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (East) (1080p)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20906
 ------------------------------------------------------------------
 
 -------------------CINEMAX WEST------------------------------------
