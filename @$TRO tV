@@ -1,0 +1,63 @@
+#EXTM3U x-tvg-url="" tvg-url="" refresh="3600"
+
+--------------------ASTRO RIA---------------------------
+#EXTINF:-1 tvg-id="Astro Ria HD" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+--------------------------------------------------------
+
+-------------------ASTRO PRIMA--------------------------
+#EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+----------------------------------------------------------
+
+------------------ASTRO WARNA----------------------------
+#EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+-----------------------------------------------------------
+
+-----------------BOO---------------------------------------
+#EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+------------------------------------------------------------
+
+-------------------ASTRO CITRA------------------------------------
+#EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+------------------------------------------------------------------
+
+-----------------HELLO--------------------------------------
+#EXTINF:-1 tvg-id="Hello HD" tvg-name="HELLO HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+-------------------------------------------------------------
+
+-------------------HBO------------------------------------
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+------------------------------------------------------------------
+
+-------------------CINEMAX------------------------------------
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="ASTRO",CINEMAX
+https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+------------------------------------------------------------------
+
+-------------------KBS WORLD------------------------------------
+#EXTINF:-1 tvg-id="KBS World HD" tvg-name="KBS WORLD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",KBS World HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
+------------------------------------------------------------------
+
+-------------------ZEE CAFE------------------------------------
+#EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png",Zee Cafe HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+------------------------------------------------------------------
+
+-------------------AND FLIX------------------------------------
+#EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+------------------------------------------------------------------
+
+-------------------AND PRIVE------------------------------------
+#EXTINF:-1 tvg-id="And Prive HD" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg",PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+------------------------------------------------------------------
+
