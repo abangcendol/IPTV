@@ -49,7 +49,7 @@ https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="MOVIES",CinemaWorld (576p)
 http://210.210.155.35/uq2663/h/h04/index.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello HD CH702
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello HD CH702
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Hello (576p)
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
