@@ -104,3 +104,9 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/04d73bd40aaf937296d26.png",TV6 [1080p]
 https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
+
+#EXTINF:-1 tvg-id="And flix HD" group-title="MOVIE" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="And Prive HD" group-title="MOVIE" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg",PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
