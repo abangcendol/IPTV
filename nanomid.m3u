@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/zhafri/EPG/main/guide-debug.xml"
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
