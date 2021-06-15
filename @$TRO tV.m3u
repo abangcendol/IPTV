@@ -32,13 +32,20 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 -------------------HBO------------------------------------
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+#http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 ------------------------------------------------------------------
 
 -------------------CINEMAX------------------------------------
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="ASTRO",CINEMAX
-https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+------------------------------------------------------------------
+
+-------------------RED BY HBO------------------------------------
+#EXTINF:-1 tvg-id="" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/608_1920x1080_HTV.png",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 ------------------------------------------------------------------
 
 -------------------KBS WORLD------------------------------------
