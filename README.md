@@ -1,5 +1,3 @@
-**SHORT LINK**
-
 File m3u | Short Link | Remarks
 ------------ | ------------- | -------------
 @$TRO tV.m3u | https://bit.ly/2TxkiGH
