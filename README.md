@@ -9,4 +9,4 @@ MYTV.m3u | https://bit.ly/3cKhehd | source : [myklik RTM](https://myklik.rtm.gov
 Playlist m3u can be used on :
 * [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
 * [OTT Navigator](https://ott-nav.com/)
-* [Astroncia IPTV](https://gitlab.com/astroncia/iptv/-/blob/master/README.en.md) for Windows x64
+* [IPTVnator IPTV](https://github.com/4gray/iptvnator#readme) for PC Windows
