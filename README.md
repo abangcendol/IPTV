@@ -7,5 +7,5 @@ UNIFI TV.m3u | https://bit.ly/3emGnjh | thanks [@weareblahs](https://github.com/
 MYTV.m3u | https://bit.ly/3cKhehd | source : [myklik RTM](https://myklik.rtm.gov.my/) </br> source : [tonton](https://www.tonton.com.my/)</br> source : [awani](https://www.astroawani.com/video-terkini)
 
 Playlist m3u can be used on :
-* Tivimate
-* OTT Navigator
+* [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
+* [OTT Navigator](https://ott-nav.com/)
