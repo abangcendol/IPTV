@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/unifitv.xml" url-tvg="https://weareblahs.github.io/epg/unifitv.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" url-tvg="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" refresh="3600"
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -48,27 +49,27 @@ http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2ZlYzcyZGItYmJhYy0zNTMwLTg2MTUtZjhmY2Y5MzI2MzQ5
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="CHN" tvg-chno="116" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="HyppSensasiHD" tvg-chno="116" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2ZlYzcyZGItYmJhYy0zNTMwLTg2MTUtZjhmY2Y5MzI2MzQ5
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="CHN" tvg-chno="118" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",HyppInspirasi HD
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="HyppInspirasiHD" tvg-chno="118" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",HyppInspirasi HD
 http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2ZlYzcyZGItYmJhYy0zNTMwLTg2MTUtZjhmY2Y5MzI2MzQ5
-#EXTINF:-1 group-title="Movies" tvg-id="CHN" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+#EXTINF:-1 group-title="Movies" tvg-id="DuniaSinemaHD" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2ZlYzcyZGItYmJhYy0zNTMwLTg2MTUtZjhmY2Y5MzI2MzQ5
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="CHN" tvg-chno="141" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="PesonaHD" tvg-chno="141" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2ZlYzcyZGItYmJhYy0zNTMwLTg2MTUtZjhmY2Y5MzI2MzQ5
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="CHN" tvg-chno="151" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",Laku Mall HD
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="LAKUmall" tvg-chno="151" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",Laku Mall HD
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -128,7 +129,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2ZlYzcyZGItYmJhYy0zNTMwLTg2MTUtZjhmY2Y5MzI2MzQ5
-#EXTINF:-1 group-title="Movies" tvg-id="331" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",Sony Max
+#EXTINF:-1 group-title="Movies" tvg-id="SonyMax" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",Sony Max
 http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
