@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" url-tvg="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" refresh="3600" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" url-tvg="https://raw.githubusercontent.com/zhafri/EPG/main/guide_unifi-debug.xml" refresh="3600" 
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
