@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="3600"
 
 #EXTINF:-1 tvg-id="101" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
 
 #EXTINF:-1 tvg-id="102" group-title="MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 
 #EXTINF:-1 tvg-id="103" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="113" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTINF:-1 tvg-id="106" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
 
 #EXTINF:-1 tvg-id="107" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
@@ -25,15 +25,15 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="110" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive01.secureswiftcontent.com/rtm/live03_1080.m3u8
 
 #EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-id="123" group-title="MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
 
 #EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8
 
 
