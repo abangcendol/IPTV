@@ -4,7 +4,8 @@
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-id="102" group-title="MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
+#https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-id="103" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -25,7 +26,8 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="110" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8
+#https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
@@ -34,7 +36,8 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
+#https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 
 
