@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",Star Movies HD 4K
+http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg" tvg-country="IN" tvg-url="" group-title="English Movies",And Prive HD 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix HD 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="ts210"  tvg-country="IN" tvg-url="" group-title="English Movies",MOVIES NOW HD Watch India
+http://watchindia.net:8880/live/33253/72963/2102.ts
