@@ -1,6 +1,6 @@
 <?php
 
-$url = https://unifiplaytv.samsam123.tk/m3u8/unifi-tv?userID=0129138760&clientPasswd=KHAlis08;
+$url = "https://unifiplaytv.samsam123.tk/m3u8/unifi-tv?userID=0129138760&clientPasswd=KHAlis08";
 
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
