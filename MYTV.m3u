@@ -12,10 +12,6 @@ https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8
 
-#EXTINF:-1 tvg-id="103" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://github.com/196-25-717-6196/Test/raw/main/103-multi.m3u8
-
 #EXTINF:-1 tvg-id="106" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
@@ -24,33 +20,17 @@ https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://github.com/KakLongGarang/hentamsajala/raw/main/NTV7.m3u8
 
-#EXTINF:-1 tvg-id="107" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://github.com/196-25-717-6196/Test/raw/main/107-multi.m3u8
-
 #EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://github.com/KakLongGarang/hentamsajala/raw/main/8TV.m3u8
-
-#EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://github.com/196-25-717-6196/Test/raw/main/108-multi.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="109" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV9.m3u8
 
-#EXTINF:-1 tvg-id="109" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://github.com/196-25-717-6196/Test/raw/main/109-multi.m3u8
-
 #EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://github.com/KakLongGarang/hentamsajala/raw/main/DramaSangat.m3u8
-
-#EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://github.com/196-25-717-6196/Test/raw/main/D<S>angat-multi.m3u8
 
 #EXTINF:-1 tvg-id="110" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
