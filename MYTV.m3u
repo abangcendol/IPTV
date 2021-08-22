@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.ga/epg/mytv.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://github.com/thisistyx/epg/blob/master/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="101" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
