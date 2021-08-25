@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
+
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
