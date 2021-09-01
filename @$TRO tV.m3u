@@ -23,7 +23,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="720" tvg-name="HELLO HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
