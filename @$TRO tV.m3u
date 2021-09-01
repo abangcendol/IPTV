@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440"
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
