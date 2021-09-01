@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv.iptvindia.tk/epg.xml.gz"
+#EXTM3U url-tvg="https://iptv.iptvindia.tk/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",Star Movies HD 4K
 #http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
