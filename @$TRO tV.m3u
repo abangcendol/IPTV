@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 #http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
+http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
@@ -11,7 +11,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
@@ -42,6 +42,3 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="ASTRO",HBO SIGNATURE
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-
-|#EXTINF:-1 tvg-id="CHN" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/608_1920x1080_HTV.png",Red by HBO
-|https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
